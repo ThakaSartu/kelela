@@ -5,6 +5,12 @@
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
+
+## Dear KelelaM,
+The playlist we put together would look great with a badge like the ones on [BADGE_FURY](https://badge.fury.io/). Something like powered by spotify or something just for that playlist so we or our readers dont become emotionally dependant on Spotify for content. But its dope to toss credit back, but I cant... Lets say this, perhaps I have to make  one.... Sigh_OPENSOURCE_YAY_OPENSOURCE if it dont exist we can build it
+
+[Using the Spotify logo in a custom playlist cover](https://community.spotify.com/t5/Desktop-Windows/Using-the-Spotify-logo-in-a-custom-playlist-cover/td-p/4635233)
+
 ---
 layout: default
 ---
