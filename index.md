@@ -4,8 +4,19 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
+<hr>
 
+# ThiSis why I cant save files!
+I did the facebook scrape to get our family photos migrated as best as I can, I got locked out of Facebook, Instagram, and Linkedin and ran into issues saving... There is a limit to how many files you can have in  directory and the size 
+### 65,536 directory entries
+A FAT32 directory can have 65,536 directory entries. Each file and subdirectory takes from 2 to 13 entries, depending on the length of its name. It is not possible to change the maximum number of entries a directory can store.
+[Why Can I Not Store More Files in My Folder on a FAT32 Formatted USB Drive?](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000kHahSAE#:~:text=A%20FAT32%20directory%20can%20have,entries%20a%20directory%20can%20store.)
 
+## Censorship concerns, I found errors on Corals Blog
+```
+upstream connect error or disconnect/reset before headers. reset reason: connection failure
+```
+<hr>
 ## Dear KelelaM,
 The playlist we put together would look great with a badge like the ones on [BADGE_FURY](https://badge.fury.io/). Something like powered by spotify or something just for that playlist so we or our readers dont become emotionally dependant on Spotify for content. But its dope to toss credit back, but I cant... Lets say this, perhaps I have to make  one.... Sigh_OPENSOURCE_YAY_OPENSOURCE if it dont exist we can build it
 
