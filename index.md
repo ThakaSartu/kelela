@@ -17,6 +17,7 @@ A FAT32 directory can have 65,536 directory entries. Each file and subdirectory 
 upstream connect error or disconnect/reset before headers. reset reason: connection failure
 ```
 <hr>
+
 ## Dear KelelaM,
 The playlist we put together would look great with a badge like the ones on [BADGE_FURY](https://badge.fury.io/). Something like powered by spotify or something just for that playlist so we or our readers dont become emotionally dependant on Spotify for content. But its dope to toss credit back, but I cant... Lets say this, perhaps I have to make  one.... Sigh_OPENSOURCE_YAY_OPENSOURCE if it dont exist we can build it
 
