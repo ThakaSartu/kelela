@@ -5,9 +5,12 @@
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 <hr>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/86505251&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/user314693144" title="user314693144" target="_blank" style="color: #cccccc; text-decoration: none;"></a> · <a href="https://soundcloud.com/user314693144/three-6-mafia-da-summa-remix" title="Three 6 Mafia - Da Summa (remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Three 6 Mafia - Da Summa (remix)</a></div>
+
+<hr>
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/UsBn8x27KIdjP-rs6P0UUQ/694957537657864192" data-did="789634cec5c081960fb3a7d539d81a7e190ad4cc"><a href="https://bubblegumfm.tumblr.com/post/694957537657864192/420">https://bubblegumfm.tumblr.com/post/694957537657864192/420</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
  <hr>
- 
+
 # ThiSis why I cant save files!
 I did the facebook scrape to get our family photos migrated as best as I can, I got locked out of Facebook, Instagram, and Linkedin and ran into issues saving... There is a limit to how many files you can have in  directory and the size 
 ### 65,536 directory entries
