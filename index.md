@@ -5,7 +5,9 @@
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 <hr>
-
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/UsBn8x27KIdjP-rs6P0UUQ/694957537657864192" data-did="789634cec5c081960fb3a7d539d81a7e190ad4cc"><a href="https://bubblegumfm.tumblr.com/post/694957537657864192/420">https://bubblegumfm.tumblr.com/post/694957537657864192/420</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ <hr>
+ 
 # ThiSis why I cant save files!
 I did the facebook scrape to get our family photos migrated as best as I can, I got locked out of Facebook, Instagram, and Linkedin and ran into issues saving... There is a limit to how many files you can have in  directory and the size 
 ### 65,536 directory entries
