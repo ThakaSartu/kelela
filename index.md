@@ -5,6 +5,11 @@
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 <hr>
+
+## Good Morning
+Yah attention... I like it
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/254609169&color=%2389ff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/grand-puba-official" title="Grand Puba" target="_blank" style="color: #cccccc; text-decoration: none;">Grand Puba</a> · <a href="https://soundcloud.com/grand-puba-official/i-like-it-i-wanna-be-where-you" title="I Like It (I Wanna Be Where You Are)" target="_blank" style="color: #cccccc; text-decoration: none;">I Like It (I Wanna Be Where You Are)</a></div>
+<hr>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/86505251&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/user314693144" title="user314693144" target="_blank" style="color: #cccccc; text-decoration: none;"></a> · <a href="https://soundcloud.com/user314693144/three-6-mafia-da-summa-remix" title="Three 6 Mafia - Da Summa (remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Three 6 Mafia - Da Summa (remix)</a></div>
 
 <hr>
