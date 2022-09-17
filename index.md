@@ -4,6 +4,9 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
+
+## ቤት ለእንግዳ
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/O8EZqSEpA-I" title="ቤት ለእንግዳ - Ethiopian new amharic full movie Bet lengeda 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
 ## [John the Fearless - Entire VHS tape with commercials and everything](https://www.youtube.com/watch?v=89Ri5brMh8M)
