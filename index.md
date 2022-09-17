@@ -5,6 +5,13 @@
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
+
+
+<IMG src="https://th.bing.com/th/id/OIP.2t2ht6e3vGE1QppUhHuFiwHaHa?pid=ImgDet&rs=1">
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/lfN9gBKu4Lc" title="The Boondocks (S03E08) - Pause Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/BzW45zDDQRA" title="Appleseed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## ቤት ለእንግዳ
 <iframe width="100%" height="502" src="https://www.youtube.com/embed/O8EZqSEpA-I" title="ቤት ለእንግዳ - Ethiopian new amharic full movie Bet lengeda 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
