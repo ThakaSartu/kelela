@@ -10,7 +10,7 @@
 ## DeAR_KeleLaM
 
 This [BerMUDA_TRiANGLE](https://www.history.co.uk/articles/five-of-the-most-mysterious-bermuda-triangle-disappearances) episode of [iNSPECTOR_GADGET](https://inspectorgadget.fandom.com/wiki/Gadgetpedia) is [SUPERRAPPiN_GOOD](https://youtu.be/Up8zxybJNHQ)
-<iframe width="894" height="503" src="https://www.youtube.com/embed/qNwGz7aw_64" title="Inspector Gadget 128 - Bermuda Triangle | HD | Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/qNwGz7aw_64" title="Inspector Gadget 128 - Bermuda Triangle | HD | Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/rJKht7IY-Xg" title="Inspector Gadget 117 - The Infiltration | HD | Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
