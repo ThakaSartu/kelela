@@ -5,6 +5,33 @@
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
+
+# Carl Jung on Alchemy
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2AMu-G51yTY" title="Face To Face  |  Carl Gustav Jung (1959) HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![##CARL_JUNG](https://careerassessmentsite.com/wp-content/uploads/2015/11/Carl-Jung-.jpg)
+[Psychology and Alchemy by Carl Jung (1968) [Part I]](https://www.youtube.com/watch?v=COvafdy108A&t=8s)
+[The Undiscovered Self, by Carl Jung (audiobook)](https://www.youtube.com/watch?v=doAlX2WIpGk)
+[Carl Gustav Jung - Approaching The Unconscious - Psychology audiobooks](https://youtu.be/xZSbffrftd0)
+[Face To Face | Carl Gustav Jung (1959) HQ](https://www.youtube.com/watch?v=2AMu-G51yTY)
+[Carl Gustav Jung - Approaching The Unconscious - Psychology audiobooks](https://youtu.be/xZSbffrftd0)
+[Christ, a Symbol of the Self, by Carl Jung (audiobook)](https://www.youtube.com/watch?v=3xU2AMOdkEc)
+[Carl Gustav Jung - Man and his symbols parts 1-2 - Psychology audiobooks](https://www.youtube.com/watch?v=RyiccI0PZxM)
+[Carl Jung - Memories, Dreams, Reflections](https://www.youtube.com/watch?v=qE262Bt40SI)
+['Man and his Symbols' Carl G Jung Part 1](https://www.youtube.com/watch?v=ZIz5P3zketE)
+[Carl Sagan's 1994 "Lost" Lecture: The Age of Exploration](https://www.youtube.com/watch?v=6_-jtyhAVTc)
+[HIDDEN MATHEMATICS - Randall Carlson - Ancient Knowledge of Space, Time & Cosmic Cycles](https://www.youtube.com/watch?v=R7oyZGW99os)
+[THE HERMETICA The Lost Wisdom of the Pharaohs - AUDIOBOOK || Timothy Freke & Peter Gandy](https://www.youtube.com/watch?v=N7hrzOCxaIE)
+[The Tibetan Book of Living and Dying. Malditasweet](https://www.youtube.com/watch?v=pPKbxpT7Z0c&t=3158s)
+[SciCafe: Life the Universe and Everything with Neil deGrasse Tyson](https://www.youtube.com/watch?v=4KRZQQ_eICo)
+
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/K3GQn3XOuzg" title="The original 1966 Space Ghost" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GaleL6vZ2j4" title="Cartoon Planet- Episode 2: Monkey Trouble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/1lmItUxgnUo" title="Space Ghost Coast to Coast | First Ever Episode | Adult Swim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/lqgQMvDw-K8" title="Waka TM: New Eritrean comedy 2022 (Gual Hadera) #Semhar Mesfn ጓል ሓደራ #ሰምሃር መስፍን" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [የምስጢረ ስላሴ እና የሰው ተፈጥሮ ትምህርት እና የተሃድሶ (በግ ለምድ) ዘመቻ በመምህር ዶ/ር ዘበነ ለማ (Memher Dr Zebene Lemma)](https://www.youtube.com/watch?v=9OWX9q-YJMY)
