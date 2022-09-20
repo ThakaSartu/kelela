@@ -5,7 +5,8 @@
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
-
+<hr>
+[M&K_SOUND_SUBWOOFER_PEE_DEE_EFF](https://mksound.com/wp-content/uploads/2022/05/HCC_331_MK_subwoofer_Reprint-LOW.pdf)
 <hr>
 
 ## Joseph-Mak
