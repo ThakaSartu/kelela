@@ -239,16 +239,32 @@ hr {
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
-/* Links
+
+a,
+a:hover,
+a:visited a:hover {
+/*  color: #c9ff23; */
+  
+  color: #FFB75E;
+}
+
+a {
+ /*  color: #63c0f5; */
+  color: #FF234A;
+/*   color: #FFBD5C; */
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+/* Links ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    a, a:hover, a:visited
-*/
+
 
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
-/* Clearfix */
+Clearfix */
 
 .cf:before, .cf:after {
   content:"";
