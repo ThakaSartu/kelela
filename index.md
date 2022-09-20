@@ -6,7 +6,7 @@
 {% endhighlight %}
 
 <hr>
-
+[MARA E. - ሰብ ኢሎሞ - መን'ዩ ወላዲ Seb Elomo By Memhr Teame Arefaine Eritrean Comedy 2022](https://www.youtube.com/watch?v=zUhUCGg7JYM)
 <hr>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/kZbdhgJBoiM" title="The Iconic S150 floating in the darkness - awakening all senses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
