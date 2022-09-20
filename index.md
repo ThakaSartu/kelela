@@ -7,6 +7,7 @@
 <hr>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/25808124&color=%23b76e76&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 30px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">##PLAY4FREEDOM</a> · <a href="https://soundcloud.com/tycho/sets/tycho-awake" title="Tycho - Awake" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho - Awake</a></div>
 <hr>
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/stitch_to_my_MUNA.png">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Xjq3seqDzmE" title="Tycho - Easy [Extended Version NFS 2020]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
